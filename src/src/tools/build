@@ -1,0 +1,7 @@
+#!/bin/bash
+# DRAGON OS - Build Script
+
+echo "🐉 DRAGON OS Build System"
+echo "Preparing the build environment..."
+
+echo "Build system initialized."
